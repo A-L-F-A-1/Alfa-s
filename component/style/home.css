@@ -1,0 +1,15 @@
+
+
+.cart-item {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin: 30px;
+    
+}
+.cart {
+    background-color: chocolate;
+}
